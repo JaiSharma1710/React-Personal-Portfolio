@@ -10,6 +10,7 @@ import todo from "../../Assets/Projects/todo.png";
 import TributePage from "../../Assets/Projects/TributePage.png";
 import Weather from "../../Assets/Projects/weather.png";
 import Peach from "../../Assets/Projects/peach.png";
+import Expense from "../../Assets/Projects/expense.png";
 
 const data = [
   {
@@ -49,10 +50,10 @@ const data = [
   },
   {
     id: 6,
-    title: "Omnifood Landing",
-    img: imnofood,
-    github: "https://github.com/JaiSharma1710/Omnifood-Landing-Page",
-    live: "https://jaisharma1710.github.io/Omnifood-Landing-Page/",
+    title: "Expense Calculator",
+    img: Expense,
+    github: "https://github.com/JaiSharma1710/React-Expense-Calculator",
+    live: "https://joyful-biscochitos-6bef12.netlify.app/",
   },
 ];
 
@@ -61,13 +62,21 @@ const fullData = [
 
   {
     id: 7,
+    title: "Omnifood Landing",
+    img: imnofood,
+    github: "https://github.com/JaiSharma1710/Omnifood-Landing-Page",
+    live: "https://jaisharma1710.github.io/Omnifood-Landing-Page/",
+  },
+
+  {
+    id: 8,
     title: "Peach Landing",
     img: Peach,
     github: "https://github.com/JaiSharma1710/Peach-Frontend-for-fiverr-client",
     live: "https://jaisharma1710.github.io/Peach-Frontend-for-fiverr-client/",
   },
   {
-    id: 8,
+    id: 9,
     title: "Tindog",
     img: tindog,
     github: "https://github.com/JaiSharma1710/tindog",
@@ -75,28 +84,28 @@ const fullData = [
   },
 
   {
-    id: 9,
+    id: 10,
     title: "Simon game",
     img: Simongame,
     github: "https://github.com/JaiSharma1710/Simon-Game-In-JS",
     live: "https://jaisharma1710.github.io/Simon-Game-In-JS/",
   },
   {
-    id: 10,
+    id: 11,
     title: "Dice game",
     img: Dicegame,
     github: "https://github.com/JaiSharma1710/diceGame",
     live: "https://jaisharma1710.github.io/diceGame/",
   },
   {
-    id: 11,
+    id: 12,
     title: "Drumkit",
     img: Drumkit,
     github: "https://github.com/JaiSharma1710/Drum-kit",
     live: "https://jaisharma1710.github.io/Drum-kit/",
   },
   {
-    id: 12,
+    id: 13,
     title: "Tribute Page",
     img: TributePage,
     github: "https://github.com/JaiSharma1710/tribute-page-freecode-camp",
