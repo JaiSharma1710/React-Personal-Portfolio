@@ -36,7 +36,8 @@ export default function Portfolio(props) {
             </article>
           );
         })}
-        <div></div>
+      </div>
+      <div className="container portfolio-button">
         <button
           onClick={props.onClick}
           className="portfolio-btn btn btn-primary"

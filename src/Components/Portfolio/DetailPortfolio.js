@@ -40,10 +40,9 @@ export default function DetailPortfolio(props) {
         <div></div>
       </div>
       <div
-        style={{ marginTop: "5rem", marginBottom: "5rem" }}
-        className="container portfolio__container"
+        style={{ marginBottom: "2rem" }}
+        className="container portfolio-button"
       >
-        <div></div>
         <button
           style={{ width: "10rem", margin: "0 auto" }}
           onClick={props.onClick}

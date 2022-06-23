@@ -26,7 +26,9 @@ export default function Certification() {
                 <div className="certificate__line"></div>
                 <div className="certificate__txt">
                   <h2>{element.title}</h2>
-                  <a href={element.link}>View</a>
+                  <a target="_blank" rel="noreferrer" href={element.link}>
+                    View
+                  </a>
                 </div>
               </span>
             </div>
